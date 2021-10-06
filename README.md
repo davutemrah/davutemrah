@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on several policy related projects at IPSR, University of Kansas\
-🌱 I’m currently learning Methodologies in ML, Deep Learning\
+🔭 I’m working as a Postdoctoral Researcher at IPSR, University of Kansas\
 👯 I’m looking to collaborate on topics in applied microeconomics\
 💬 Ask me about data, Economics, R, Python\
 📫 How to reach me: demrahayan@gmail.com 
